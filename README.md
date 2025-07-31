@@ -30,4 +30,4 @@ Detect license plate-like regions from a vehicle image using **pure image proces
 
 ### 🔗 Run:
 ```bash
-python anpr.py
+python plate_detector.py
